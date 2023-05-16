@@ -2,6 +2,7 @@
 /*
 I realized reading data from stdin in Python is much slower than in CPP
 so I switched from Python code to CPP. Thank Phan Phan Hai Long 20214964 for helping me transfer code
+2-OPT, 3-OPT, POPMUSIC...: Éric D. Taillard, Design of Heuristic Algorithms for Hard Optimization, https://doi.org/10.1007/978-3-031-13714-3
 */
 //
 #include <iostream>
