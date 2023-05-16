@@ -1,3 +1,4 @@
+# Python code for 2-OPT, 3-OPT, POPMUSIC...: Éric D. Taillard, Design of Heuristic Algorithms for Hard Optimization, https://doi.org/10.1007/978-3-031-13714-3
 import copy
 import time
 import sys
